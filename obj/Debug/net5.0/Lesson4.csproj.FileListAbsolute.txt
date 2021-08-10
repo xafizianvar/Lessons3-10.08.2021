@@ -1,0 +1,16 @@
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.csprojAssemblyReference.cache
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.AssemblyInfoInputs.cache
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.AssemblyInfo.cs
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.csproj.CoreCompileInputs.cache
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.exe
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.deps.json
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.runtimeconfig.json
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.runtimeconfig.dev.json
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.dll
+D:\lessons\lessons4\bin\Debug\net5.0\ref\Lesson4.dll
+D:\lessons\lessons4\bin\Debug\net5.0\Lesson4.pdb
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.dll
+D:\lessons\lessons4\obj\Debug\net5.0\ref\Lesson4.dll
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.pdb
+D:\lessons\lessons4\obj\Debug\net5.0\Lesson4.genruntimeconfig.cache
